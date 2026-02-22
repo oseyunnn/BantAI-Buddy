@@ -84,10 +84,8 @@ We aim to expand BantAI Buddy into:
 ## 👥 Team O(1) Developers
 **Cebu Institute of Technology – University**
 
-**Project Leader**
+**Team: O(1) Developers**
 - Angela Jahziel Encabo
-
-**Collaborators**
 - Arth Andrey Endrina
 - Aissha Monceda
 - Gerald Benedict Ares
